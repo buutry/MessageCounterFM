@@ -19,11 +19,12 @@ MCFM is a Python script with a GUI that counts messages you have sent and receiv
 ### Running the script
 1. Download or clone this repository.
 2. Make sure `gui.py` and `main.py` are in the same folder.
-3. Open terminal/command prompt in the folder and run:
+3a. Open terminal/command prompt in the folder and run:
 
 ```bash
 python gui.py
 ```
+3b. Otherwise, You can just open `main.py`
 
 
 ## For any questions contact MCFMhelp@gmail.com
