@@ -36,7 +36,6 @@ python gui.py
 - Install `PyInstaller` / Pobierz `PyInstaller`
   ```
   pip install pyinstaller
-
   ```
 
 - Create MCFM.exe / Stwórz MCFM.exe
@@ -47,7 +46,7 @@ python gui.py
 
   ```
   pyinstaller --onefile --windowed --name MCFM --icon=MCFM.ico main.py
-
   ```
   
+  ### ANY TIPS OR QUESTIONS? CONTACT MCFMhelp@gmail.com
   
