@@ -23,6 +23,7 @@ MCFM is a Python script with a GUI that counts messages you have sent and receiv
 
 ```bash
 python gui.py
+```
 
 
-For any questions contact MCFMhelp@gmail.com
+## For any questions contact MCFMhelp@gmail.com
